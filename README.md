@@ -20,4 +20,4 @@ The **Sign Language Recognition Model** is a real-time system designed to recogn
   - OpenCV: For video and image processing  
   - Scikit-learn: For building and training machine learning models  
   - NumPy: For numerical computations  
-  - Tkinter: For GUI-based interface (if applicable)  
+  - Tkinter: For GUI-based interface   
